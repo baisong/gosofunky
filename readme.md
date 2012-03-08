@@ -1,6 +1,7 @@
 # gopastfunky
 
 A heavily commented, short example of functional programming techniques in go:
+
 1. passing functions to functions as parameters
 1. functions that return functions
 1. storing anonymous functions as variables
